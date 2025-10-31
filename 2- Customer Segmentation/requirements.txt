@@ -1,0 +1,5 @@
+- Python
+- Pandas — Dataset handling
+- Matplotlib — Visualization 
+- Seaborn — Enhanced data visualizations
+- Scikit-learn — Clustering algorithms (K-Means) and preprocessing tools
