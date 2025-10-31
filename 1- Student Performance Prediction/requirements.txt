@@ -1,0 +1,5 @@
+- Python
+- Pandas — Data manipulation and cleaning
+- NumPy — Numerical operations
+- Matplotlib — Data visualization
+- Scikit-learn — Model training, evaluation, and regression algorithms
