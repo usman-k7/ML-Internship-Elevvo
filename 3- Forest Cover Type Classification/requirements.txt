@@ -1,0 +1,7 @@
+- Python
+- Pandas — Data handling
+- NumPy — Mathematical computations
+- Matplotlib — Visualization
+- Seaborn — Enhanced visualizations
+- Scikit-learn — Decision Tree, Random Forest, evaluation metrics
+- XGBoost — Advanced gradient boosting classifier for higher accuracy
